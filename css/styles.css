@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+/* font-family: 'Kumbh Sans', sans-serif */
+
+ul li {
+    border-bottom: 0.3rem solid rgba(255, 255, 255, 0) !important ;
+    border-width: auto;
+    padding-bottom: 0.75rem !important;
+  }
+  
+  ul li:hover {
+    border-bottom: 0.3rem solid hsl(26, 100%, 55%) !important ;
+    border-width: auto;
+    padding-bottom: 0.75rem !important;
+    
+  }
